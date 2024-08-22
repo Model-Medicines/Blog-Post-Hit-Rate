@@ -1,0 +1,4 @@
+Compound Name,SMILES,PI3Kγ Kd (nM)
+1,COc1ccc(-c2cc(C(F)F)n3nccc3n2)cc1OC,640
+17,CC1(CCn2nc(-c3ccc(Cl)c(O)c3)c3c(N)ncnc32)COC1,63
+20,CC(C)n1nc(-c2cc(Cl)c(O)c(C3CC3)c2)c2c(N)ncnc21,120

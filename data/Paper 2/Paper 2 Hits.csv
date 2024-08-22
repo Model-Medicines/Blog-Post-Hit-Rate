@@ -1,0 +1,16 @@
+,Unnamed: 0,Compound Name,SMILES,MERTK IC50 (nM)
+0,0,4b,N[C@H]1CC[C@H](Nc2nc(Nc3ccc(S(=O)(=O)N4CCOCC4)cc3)nc3[nH]ncc23)CC1,271.8
+1,1,4d,CN1CCN(Cc2cccc(Nc3nc(N[C@H]4CC[C@H](N)CC4)c4c[nH]nc4n3)c2)CC1,2911.0
+2,2,5a,N[C@H]1CC[C@H](Nc2nc(Nc3ccc(S(=O)(=O)N4CCOCC4)cc3)nc3[nH]ccc23)CC1,53.4
+3,3,5c,CN1CCN(Cc2cccc(Nc3nc(N[C@H]4CC[C@H](N)CC4)c4cc[nH]c4n3)c2)CC1,259.4
+4,4,8a,NC(=O)C1CCCN(c2nc(Nc3ccc(S(=O)(=O)N4CCOCC4)cc3)nc3[nH]ccc23)C1,679.0
+5,5,8b,O=C1NCCC12CCCN(c1nc(Nc3ccc(S(=O)(=O)N4CCOCC4)cc3)nc3[nH]ccc13)C2,1022.0
+6,6,8c,NC(=O)c1cccc(-c2nc(Nc3ccc(S(=O)(=O)N4CCOCC4)cc3)nc3[nH]ccc23)c1,505.9
+7,7,8d,NC(=O)c1cn(-c2nc(Nc3ccc(S(=O)(=O)N4CCOCC4)cc3)nc3[nH]ccc23)c2ccccc12,5961.0
+8,8,15a,O=S(=O)(c1ccc(Nc2ncc3c(-c4cn[nH]c4)c[nH]c3n2)cc1)N1CCOCC1,1112.0
+9,9,15b,CNC(=O)c1ccc(Nc2ncc3c(-c4cn[nH]c4)c[nH]c3n2)cc1,1007.0
+10,10,19a,OCc1ccc(-c2[nH]nc3ccc(-c4ccc(O)cc4CO)cc23)cc1,3004.0
+11,11,19b,OCc1cc(O)ccc1-c1ccc2[nH]nc(-c3ccc(N4CCOCC4)cc3)c2c1,1988.0
+12,12,23a,O=C(Nc1[nH]nc2ccc(-c3ccc(O)cc3CO)cc12)c1ccc(S(=O)(=O)N2CCOCC2)cc1,8390.0
+13,13,23d,O=C(Nc1[nH]nc2ccc(-c3cnn(C4CCNCC4)c3)cc12)c1ccc(N2CCOCC2)cc1,5821.0
+14,14,24,NC(=O)[C@H]1CCCN1C(=O)c1ccc2[nH]nc(-c3ccc(CN4CCOCC4)cc3)c2c1,1528.0

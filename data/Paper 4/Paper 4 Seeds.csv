@@ -1,0 +1,11 @@
+Compound Name,SMILES
+Compound 1 Seed,CC(C)(C)c1cnc(CSc2cnc(NC(=O)C3CCNCC3)s2)o1
+Compound 2 Seed,CCNCc1cncc(-c2ccc3[nH]nc(-c4nc5c(F)cc(F)cc5[nH]4)c3c2)c1C
+Compound 3 Seed,O=C(Nc1cccc(OC[C@@H]2CCCN2)n1)Nc1csc(-c2ccncc2)n1
+Compound 4 Seed,O=C(NC1CCNCC1)c1[nH]ncc1NC(=O)c1c(Cl)cccc1Cl
+Compound 5 Seed,CC(C)=CC(=O)Nc1[nH]nc2c1CN(C(=O)C1CCN(C)CC1)C2(C)C
+Compound 6 Seed,C[C@@H](O)[C@@H](C)Oc1nc(Nc2ccc([S@](=N)(=O)C3CC3)cc2)ncc1C(F)(F)F
+Compound 7 Seed,CC[C@H](Nc1nc(NCc2cnc(C)cc2C)c2ncn(C(C)C)c2n1)[C@@H](C)O
+Compound 8 Seed,Nc1nccc(-c2c[nH]c3ncc(-c4ccc(F)cc4)cc23)n1
+Compound 9 Seed,C[C@@]1(O)CCC[C@H]1n1c(=O)c(C(F)F)cc2cnc(NC3CCN(S(C)(=O)=O)CC3)nc21
+Compound 10 Seed,COCc1cc(C(=O)Nc2cc(C3CCC(OC(=O)NC(C)C)C3)[nH]n2)n(C)n1

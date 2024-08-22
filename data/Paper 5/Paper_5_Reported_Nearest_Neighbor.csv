@@ -1,0 +1,5 @@
+ID,IMAGE,SMILES,COMMENT
+P1-1,,Brc1cccc(Nc2ncnc3ccccc23)c1,NN to Compound 1
+P1-4,,Fc1cccc(Nc2ncnc3ccccc23)c1,NN to Compound 2
+P1-5,,Clc1cccc(Nc2ncnc3ccccc23)c1,NN to Compound 3
+P1-8,,Clc1cccc(Nc2ncnc3ccccc23)c1,NN to Compound 4

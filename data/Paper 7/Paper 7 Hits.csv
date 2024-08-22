@@ -1,0 +1,7 @@
+Compound Name,SMILES,A. baumannii ATCC 17978 MIC (µM)
+Enamine 28,O=S(=O)(NC(c1ccc(OC(F)(F)F)cc1)C(F)(F)F)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,≤ 14.9529593136725
+Enamine 23,O=S(=O)(c1cc(F)ccc1NCc1ccccc1O)C(F)(F)F,≤ 22.9200369386517
+Enamine 10,O=S(=O)(c1ccccc1NCc1cc(F)cc(F)c1O)C(F)(F)F,≤ 21.796574164041
+Enamine 40,O=C(Nc1nc2ccc(S(F)(F)(F)(F)F)cc2s1)C(F)(F)c1ccc(OC(F)(F)F)c(Br)c1,≤ 13.5158590683902
+Enamine 43,COc1cccc(C2(NCCCCCCSc3ccccc3OC(C)=O)CCCCC2)c1,≤ 17.572784798036
+Enamine 31,Brc1cccc(CCCNC2CCc3cccc4cccc2c34)c1,≤ 21.1029698366025

@@ -1,0 +1,5 @@
+,Compound Name,SMILES,CDK2 IC50 (µM)
+0,Compound 1,CC(C)(C)c1cnc(CSc2nc(NC(=O)C3CCNCC3)ncc2Cl)o1,8.0
+1,Compound 6,CC(C)Nc1nc2[nH]c(-c3ccc(S(C)(=O)=O)cc3)nc(=O)c2cc1Br,5.2
+2,Compound 8,Cc1c(-c2ccc(F)cc2)ccnc1Nc1ccnc(N)n1,1.5
+3,Compound 10,CC(C)NC(=O)O[C@@H]1CC[C@H](c2cnc3[nH]c(-c4ccnn4C)cc3c2)C1,0.0015

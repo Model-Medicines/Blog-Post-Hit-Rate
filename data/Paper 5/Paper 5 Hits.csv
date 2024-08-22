@@ -1,0 +1,5 @@
+Compound Name,SMILES,EGFR IC50 (µM)
+Compound 1,Fc1ccc(Nc2ncnc3ccc(Br)cc23)cc1,0.03
+Compound 2,Nc1c(Cl)cc(Nc2ncnc3ccc(F)cc23)cc1Cl,0.04
+Compound 3,Cc1ccc(Nc2ncnc3cccc(F)c23)cc1F,0.21
+Compound 4,Nc1c(Cl)cc(Nc2ncnc3c(F)cccc23)cc1Cl,1.4
